@@ -31,7 +31,7 @@ const Navbar = () => {
       </ul>
 
       <div className='nav-login'>
-       <Link to='/link'> <button>Login</button></Link>
+       <Link to='/login'> <button>Login</button></Link>
        <Link to='/cart'> <img src={shopping} /></Link>
         <div className='cart-count'>0</div>
       </div>

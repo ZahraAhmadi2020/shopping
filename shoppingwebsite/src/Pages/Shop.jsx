@@ -7,7 +7,7 @@ import Popular from '../Components/Popular/Popular'
 
 const Shop = () => {
   return (
-    <div>
+    <div className='main'>
       <Hero />
       <Popular />
       <Offers />

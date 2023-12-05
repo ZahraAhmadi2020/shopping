@@ -13,10 +13,9 @@ background: linear-gradient(100deg, #fde1ff, #e1ffea22 60%);
 }
 
 .main{
- overflow-y: scroll;
- overflow-x: hidden;
+overflow-x: hidden;
 
-  padding: 4rem;
+  padding:2rem;
 }
 .item-img{
   width: 250px;
